@@ -1,0 +1,186 @@
+Initiangine vrsi: 3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.0]
+    errwaSVA 3D (I=0x405)
+    Vendor:   VMWare
+    VRAM:     640 MB
+Begin MonoManager ReoadAssembly
+Patform assembly: Z:\vm_share\PneumaticrocessngCer\PnemaicrocessingCenter_Data\Managed\UnityEngine.dll (thismessage is harmless)
+Loading Z:\vm_share\PneumaticProcessingCenter\PneumaticrocessingCenter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: Z:vm_share\PneumaticProcessingCenter\PneumaticProcessingCenter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading Z:\vm_share\PneumaticProcessingCenter\PneumaticProcessingCenter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: Z:\vm_share\PneumaticProcessingCenter\PneumaticProcessingCenter_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading Z:\vm_share\PneumaticProcessingCenter\PneumaticProcessingCenter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: Z:\vm_share\PneumaticProcessingCenter\PneticPrcessingCenter_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading Z:\vm_share\PneumaticProcessingCenter\PneumaticProcessingCnter_Data\Managed\UnityEngine.Neworking.dll into Unity Child Domain
+Platform assembly: Z:\vm_share\PneumaticProcessingCenter\PneumaticProcessingCent_Data\Maed\myS7ProSimLib.dll (this message is harmless)
+Loading Z:\vm_share\PneumaticProcessingCenter\PneumaticProcessingCenter_Data\Managed\myS7ProSimLib.dll into Unity Child Domain
+- Completed reload, in  9.648 seconds
+Platform assembly: Z:\vm_share\PneumaticProcessingCenter\PnumaticProcessingCenter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: :\v_shae\PneumaticPrcessingCenter\PneumaticProcessingCenter_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI>Initialized touc support.
+UnloadTime: 4.116500 ms
+Connecting to S7ProSim ...
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEgineDebugBindings.gen.cpp Line: 37)
+
+Setting up 1 worker thread for Elightn.
+  Thead -> id: 13c4 -> priority: 1 
+Unloading 4 Unused Seriaized files (Serialized files now loaded: 0)
+UnloadTime: 9.498899 ms
+
+Unloading 5 unusedAsts to educe memory usage. Loaded Objects now: 1076.
+Total: 3.314000 ms (FindLiveObjects: 1.704500 ms CreateObjectMapping: 0.060600 ms MarkObjects: 1.48490 ms  DeleteObjects: 0.042200 ms)
+
+onnecting to S7ProSim ...
+
+ 
+(Filname: C:/buildlave/unity/build/artifacts/generated/common/runtime/UntyEngineDebugBindings.gen.cpp Line: 37)
+
+Uloading 3 Unused Serialized fils (Seriazed files now loaded: 0)
+UnloadTime: 8.471399 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 107.
+Tota 0.835000s (FindLivebects: 0.06200 ms CreateObjectMapping: 0.02500 ms MarkObjects: 0.69700 ms  DeleteObjects: 0.046400 ms)
+
+Connecting to S7ProSim ...
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Crash!!
+SymInit: Symbol-SearchPath: '.;Z:\vm_share\PneumaticProcessingCenter;Z:\vm_share\PneumaticProcessingCenter;C:\Windows;C\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions:530, UserName: 'Student
+OS-Version: 6.1.7601 (Service Pack 1) 0x100-0x1
+Z:\vm_shre\PneumaticProcessingCnter\PneumaticProcessingenter.exe:PneumaticProcessingCenter.exe 011B0000) size: 17604608 (result: 0), SymType: '-exported-', PDB: 'Z:\vmshare\PneumaticProcessingCenter\PneumaticProcessingCenter.exe', fileVersion: 5.3.4.47953
+C:\Windows\SysWOW64\ntdll.dll:ntdll.dll (77340000), size: 1572864 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\SysWOW64\ntdlldll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\kernel32.dll:kernel32.dll (754F0000), size: 1114112 (result: 0), SymType: '-eported-', PDB: 'C:\Windows\syswow64\kernel32.dll', fileVersion: 6.1.761.17514
+C:\Windows\sywow64\KERNELBASE.dll:KENELBASE.dll (75BA0000), size: 286720 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\KERNELASE.dll', fileVersion: 6.1.7601.17514
+C:\Wido\system32\HID.DLL:HIDDLL (70F0000), size: 3664 (result: 0), SymType: '-expored-', PDB: 'C:\Windows\system32\HID.DLL', fileVersion: 6.1.7600.16385
+:\Widows\syswow64\msvcrt.dll:msvcrt.dll (751D0000), size: 704512 result: 0), SymType: '-exported-',PDB 'C:\Windows\syswow64\msvcrt.dll', fileVersion: 7.0.600.16385
+C:\Windows\syswow64\GDI2.dll:GDI32.dll (75280000), size: 589824 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\GDI3.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\USER32.dll:USER32.dll (75960000), size: 1048576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\USER32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\ADVAPI32.dll:ADVAPI32.dll 75390000), size: 655360 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\ADVAPI32.dll', fileVersion: 6.1.601.17514
+C:\Windows\SysWOW64\sechost.dll:sechost.dll (75430000), size: 102400 (result: 0),SymType: '-exported-', PDB: 'C:\Widows\SysWOW64\sechost.dll', fileVersion: 6.1.7600.16385
+:Wndows\syswow64\RPCRT4.dll:RPCRT4.dll (750E0000), size: 983040 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\RPCRT4.dll', fileVersion: 6.1.7601.1751
+C:\Windows\syswow64\SspiCli.dll:SspiCli.dll (74EA0000), ize: 393216 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\SspiCli.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\CRYPTBASE.dll:CRYPTBASE.dll (74E90000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\CRYPTBASE.dll', fileVersion: 6.1.7600.16385
+:\Windows\sl:LPK.dll (75310000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\LPK.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\USP10.dll:USP10.dll (75450000), size: 643072 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\USP10.dll', fileVersion: 1.626.7601.17514
+C:\Windows\syswow64\WS2_32.dll:WS2_32.dll (75AC0000), size: 21708 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\WS2_32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\NSI.dll:NSI.dll (75B60000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\NSI.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\VERSION.dll:VERSION.dll (74A60000), size: 36864 (result: 0),SymType: '-exported-', PDB: 'C:\Windows\system32\VERSION.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\ole32.dll:ole32.dll (76D20000), size: 142540(ult: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\ole32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\SHLWAPI.dll:SHLWAPI.dll (75330000), size: 356352 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\SHLWAPI.dll', fileVersion: 6.1.760117514
+C:\Windows\syswow64\SHELL32.dll:SHELL32.dll (75BF0000), size:12886016 (result: 0), SymType: '-expoted-', PDB: 'C:\Windows\syswow64\SHELL32.dll' fileVersion: 6.1.7601.17514
+C:\Window\system32\OPENGL32.dll:OPENGL32.dll (70D20000), size: 819200 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\OPENGL32.dll', fileVersion 6.1.7600.16385
+C:\Windows\system32\GLU32.dll:GLU32.dll (70E60000), size: 139264 (result: 0), SymType: '-exported-', PDB: 'C:\Windos\system32\GLU32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\DDRAW.dll:DDAWdll (6FF10000), size: 946176 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\DDRAW.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\DCIMAN32.dll:DCIMAN32.dll (70EF0000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\DCIAN32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\SETUPAPI.dll:SETUPAPI.dll (76840000), size: 1691648 (esult: 0), SymType: '-exported-', PDB: 'C:\Winows\syswow64\SETUPAPI.dll', fileVersion: 61.7601.17514
+C:\Windows\syswow64\CFGMGR32.dll:CFGGR32.dll (76F10000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\CFGMGR3.ll', fileVersion: 6.17601.17514
+C:\Windows\syswow64\OLEAUT32.dll:OLEAUT32.dll (75600000),size: 585728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\OLEAUT32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\DEVOBJ.dll:DEVOBJ.dll (75690000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\DEVOBJ.dll', fileVerion: 6.1.7600.16385
+C:\Windows\sytem32\dwmapi.dll:dwmapi.dll (70770000), size: 77824 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dwmapi.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\WINMM.dll:WINMM.dll(72DF0000), size: 204800 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\WINMM.dll', fileVersion: 6.1.7601.17514
+C:\Windos\system32\MSACM32.dll:MSACM32.dll (6FD30000), size: 81920 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\MSACM32.dll', fileVersion 6.1.7600.16385
+C:\Windows\syswow64\IMM32.dll:IMM32.dll (75A60000), size: 393216 (result: 0), SymType: '-exporte-', PDB: 'C:\Windows\syswow64\IMM32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\MSCTF.dll:MSCTF.dll(75010000), size: 835584 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\MSCTF.dll', fileVersion: .760016385
+C:\Windows\syste32\DNSAPI.dll:DNSAPI.dll (749C0000), size: 278528 (result: 0), SymType: '-xported-', PDB: 'C:\Windows\system32\DNSAPI.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\IPHLPAPI.DLL:IPHLPAPI.DLL (73C0000), size: 114688 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\IPHLPAPI.DLL', fileVersion: 6.1.7601.17514
+C:\Windows\system32\WINNSI.DLL:WINNSI.DLL (734B0000), size: 8672 (resul: 0), SymType: '-exported-, PDB: 'C:\Windows\systm32\WINNSI.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\system32\WINHTTP.dll:WINHTTP.dll (73F80000), size: 360448 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\WINHTTP.dll', fileersion: 6.1.7601.17514
+C:\Windows\system32\webio.dll:webio.dll (73F30000), size: 323584 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\webio.dll', fileVersion: 6.1.7601.17514
+Z:\vm_share\PneumaticProcessingCenter\neumaticProcessingCenter_Data\Mono\mono.dll:mono.dll (10000000), size: 2293760 (result: 0), SymType: '-exported-', PDB: 'Z:\vm_share\PneumaticProcessingCenter\PneumaticProcessingCenter_Data\Mono\mono.dll', filVersion: 1.0.0.1
+C:\Windows\syswow64\PSAPI.DLL:PSAPI.DLL (75000000), size: 20480 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\PSPI.DLL', fleVersion: 6.1.7600.16385
+C:\Windows\system32\MSWSOCK.dll:MSWSOCK.dll (724C0000), size: 245760 (result: 0), SymTyp: '-exported-', PDB: 'C:\Windws\system32\MSWSOCK.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\uxtheme.dll:uxthee.dll (73BD0000), size: 524288 (result: 0), SymType: '-exported-', PDB 'C:\Windows\system32\uxtheme.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\d3d11.dll:d3d11.dll (6FCA0000), size: 536576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\d3d11.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\dxgi.dll:dxgi.dll (6FC10000), size: 536576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dxgi.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\WINTRUST.dll:WINTRUST.dll (75B70000), ize: 184320 (result: 0), SymType: '-exported-', PDB: 'C:\Wndows\syswow64\WINTRUST.dll', fileVersion: 6.1.7601.17514
+:\Windows\syswow64\CRYPT32.dll:CRYPT32.dll (756B0000), size: 1167360 (esult: 0), ymType: '-exportd-', PDB: 'C:\Windows\syswow64\CRYPT32.dll', filVersion: 6.1.7601.17514
+C:\Windows\syswow64\MSASN1.dll:MSASN1.dll (77310000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\MSASN1.dll', fileVersion: 6.1.7601.17514
+:\Windows\system32\vm3dum_loader.dll:vm3dum_loader.dll (6FC00000), size: 65536 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\vm3dum_loader.dll', fileVersion: 8.15.160
+C:\Windows\ystem2\vm3dum_10.dll:vm3dum_10.dll (6FBC0000), size: 253952 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\vm3dum_10.dll', fileVersion: 8.15.1.60
+C:\Windows\system32\dbghelp.dll:dbghelp.dll (736D0000), size: 962560 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dbghelp.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\CRYPTSP.dll:CRYPTSP.dll (73490000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\CRYPTSP.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\rsaenh.dll:rsaenh.dll (73350000), size: 241664 (result: 0), SymType: '-exporte-', PDB: 'C:\Windows\system32\saenh.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (63C90000), size: 53248 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dhcpcsvc6.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\system32\dhcpcsvc.DLL:dhcpcsvc.DLL (72300000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\dhcpcsvc.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\system32\MMDevAPI.DLL:MMDevAPI.DLL (638C0000), size: 233472 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\MMDevAPI.DLL', fileersion: 6.1.7601.17514
+C:\Windows\system32\PROPSYS.dll:PROPSYS.dll(6010000), size: 1003520 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\PROPSYS.dll', fileVersion: 7.0.7601.17514
+C:\Windows\system32\wdmaud.drv:wdmaud.drv (630E0000), size: 196608 (result: 0), SyType: '-exported-' PDB:'C:\Windows\system3\wdmaud.drv', fileVersion: 6.1.7601.1714
+C:\indows\system2\ksuser.dll:ksuser.dll (6FBB000), size: 16384 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\ksuser.dll', fileVersion: 6.1.600.16385
+C:\Windows\system2\AVRT.dllAVRT.dll (63970000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Wndows\sytem32\AVRT.dll', fileVersion: 6.1.760.16385
+C:\Windows\system32\credssp.dll:credssp.dll (7250000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\credssp.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\AUDIOSES.DLL:AUDIOSES.DLL (62E8000), size: 221184 (reslt: 0), SymType: '-exported-', PDB: 'C:\Windows\sytem32\AUDIOSES.DLL', fileVersion: 6.1.7601.17514
+C:\Windows\system32\msacm32.drv:msacm32.dr (630D0000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\msacm32.drv', fileVersion: 6.1.7600.16385
+C:\Windows\system32\midimp.dll:midimap.dl (630C0000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\midimap.dll', fileVersion: 6.1.7600.16385
+C:\Windows\system32\dsound.dll:dsound.dll (62E00000), size: 466944 (result: 0), SymType: -eported-', PDB: 'C:\Windows\system32\dsound.dll', fileVrsion: 6.1.7600.16385
+C:\Windows\system32\POWRPROF.dll:POWRPROF.dll (61DE0000) size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\POWRPROF.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\CLBCatQ.DLL:CLBCatQ.DLL (758D0000), size: 536576 (result: 0), SymType: '-expted-', PDB: 'C:\Windows\syswow64\CLBCat.DLL', fileVersion: 2001.12.8530.16385
+C:\Windows\system32\rasadhlp.dll:rasadhlp.dll (749B0000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\rasadhlp.dll', fileVersion: 6.1.7600.16385
+C:\Windows\System32\wship6.dll:wship6.dll (724B0000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\System32\wship6.dll', fileVersion: 6.1.7600.16385
+C:\Program Files (x86)\SIEMENS\PLCSIM\s7wsi\s7wspsmx.dll:s7wspsmx.dll (06C10000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\SIMENS\PLCSIM\s7wsi\s7wspsmx.dll', fileVersion: 504.503.102.1
+C:\Windows\system32\MFC71.DLL:MFC71.DLL (7C140000), size: 1060864 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\MFC71.DLL', fileVersion: 7.10.3077.0
+C:\Windows\system32\MSVCR71.dll:MSVCR71.dll (7C340000), size: 352256 (result 0), SymType: '-exported-', PDB: 'C:\Windows\system32\MSVCR71.dll', fileVersion: 7.10.3052.4
+C:\Windows\system32\MFC71ENU.DLL:MFC71EN.DLL (5D360000), size: 57344 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\MFC71ENU.DLL', fileVersion: 7.10.3077.0
+C:\Windows\system32\SXS.DLL:SXS.DLL (719D0000), size: 389120 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\ystem32\SXS.DLL', fileVersion: 6..7601.17514
+C\Windows\system32\RpcRtRemote.dll:RpcRtRemote.ll (73330000), size: 57344 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\RpcRtRemote.dll', fileVersion: 6.1.7601.17514
+
+========== OUTPUTING STACK TRACE ==================
+
+  ERROR: SymGetSymFromAddr64, GetLastError: 'The spcified module could not be found.' (Address: 0501935)
+  ERROR: SymGetModuleInfo64, GetLastError: 'A dynamic lnk ibrary (DLL) initialization routine failed.' (Address: 05019235)
+0x05019235 ((<unknown>)) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'The specified module could not be found.' (Address: 05019BE)
+  ERROR: SymGetMouleInfo64, GetLastError: 'A dynamic link library (DLL) initialization routine failed.' (Address: 050191BE)0
+x050191BE ((<unknown>)) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'The spcified module could not be found.' (Address: 05016116)
+  ERROR: SymGetModuleInfo64, GetLastError: 'A dynamic lin library (DLL) initialization routine faled.' (Address: 05016116)
+0x05016116 ((<unknown>)) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'The specified module could not be found.' (Address: 0501917D)
+ ERROR: SymGetModuleInfo64, GetLastError: 'A dynamic lnklibrary (DLL) initialization routine failed.' (Address: 0501917D)
+0x0501917D ((<unknown>)) 
+  ERROR: SymGetSymFromAddr64, GetLatError: 'The secified module could not be found.' (Address: 0501CF6F)
+  ERROR: SymGetModuleInfo64, GetLastError:'A dynamic link library (DLL) initialization routine failed.' (Address: 0501CF6F)
+0x0501CF6F ((<unknown>)) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Thespecified module could not be found.' (Address: 0501CB12)
+  ERROR: SymGetModuleInfo64, GetLastError: 'A dynamic link lirary (DLL) initialization routine failed.' (Address: 0501CB12)
+0x0501CB1 ((<unknown>)) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'The specified module could not e found.' (Address: 04FEF541)
+  ERROR: SymGetModuleInfo6, GetLastError: 'A dynamic link library (DLL) initializaton routine failed.' (Address: 04FEF541)
+0x04FEF541 ((<unknown>)) 
+0x100F12F4 (mono) mono_set_defaults
+0x1005D971 (mono) mono_runtime_invoke
+  EROR: SymGetSmFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 013608AE)
+0x013608AE (PneumaticProcessngCenter) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid addres.' (Address: 013E4B3A)
+0x013E4B3A (PneumaticProcessingCenter) 
+  ERROR: SymGetSymFromAddr64, etLasError: 'Attempt to access invalid address.' (Address: 013E4955)
+0x013E4955 (PneumaticProcessingCenter) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Atempt to access invalid address.' (Address: 01350EEA)
+0x01350EEA (PneumaticProcessingCenter) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 01352AC8)
+0x01352AC8 (PneumaticProcessingCenter) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 013AA91F)
+0x013AA91F (PneumaticProcesingCenter) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 0144B927)
+0x0144B927 (PneumaticProcessingCenter) 
+  ERROR: SymGetSymFromAddr64, GetLastEror: 'Attempt to access invalid address.' (Address: 0144D6EE)
+0x0144D6EE (PneumaticProcessingCenter) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid address.' (Address: 017FDC48)
+0x017FDC48 (PneumaticProsingCentr) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Attempt to access invalid adress.' (Address: 0182CFEE)
+0x0182CFEE (PneumaticProcessingCenter) 
+0x755033CA (kernel32) BaseThreadInitThunk
+0x379ED2 (ntdll) RtlInitializeExceptionChain
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****

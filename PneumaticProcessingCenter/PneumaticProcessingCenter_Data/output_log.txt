@@ -1,33 +1,89 @@
-Iitiaize engine version: 5.3.4f1 (fdbb5133b820)
-fxDevice: eatng devic lienthreaded=1
+Itialize engin version: 5.3.4f1 (fdbb5133b820)
+GfxDevice: creating device client; threaded=1
 Direct3D:
-    Versin:  Direct3D 10 [level .0]
-    Renderer: VMware SVGA 3D (ID=0x405)
+    Version:  Direct3D 11.0 [level 10.0] 
+   Renderer: VMwarVGA 3D (ID=05)
     Vendor:   VMWare
     VRAM:     640 MB
-Begin MonoManager ReloadAssembly
-Platform assembly: Z:\vm_share\PneumaticProcessingCenter\PneumaticProcessingCenter_Data\Managed\UnityEngine.dll (this message is harmless)
-Loadig Z:\vm_share\PneumaticProcessingCenter\PneumaticProcessingCenter_Data\Managed\UnityEngine.dl into Unity Child Domain
-Platform assembly: Z:\vm_share\PneumaticProcessingCenter\PneumaticProcessingCenter_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading Z:\vm_share\PneumaticProcessingCenter\PneumaticProcessingCenter_Data\Managed\Assembly-CSharp.dll into Unit Child Domain
-Platform assbly: Z:\vm_share\PneumaticProcessingCenter\PneumaticProcessingCenter_Data\Managed\UnityEngine.UI.dll (this message i harmless)
-Loading Z:\vm_share\PneumaticProcessingCenter\PneumaticroceingCenter_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: Z:\vm_share\PneumaticProcessingCenter\PneumaticProcessingCenter_DataManaged\UnityEngine.Networking.dll (this message is harmless)
-Loading Z:\vm_share\PneumaticProcessingCenter\PneumaticProcessingCenter_Data\Managed\UnityEngine.Networking.dll into Unity Chld Domain
-Platform assembly: Z:\vm_share\PneumaticProcessingCenter\PneumaticProcessingCenter_Data\Managed\myS7ProSimLib.dll (this message is harmless)
-Loading Z:\vm_share\PneumaticProcessingCenter\PneumaticProcessingCenter_Data\Managed\myS7ProSimLib.dll into Unity Child Domain
-- Completed reload, i 16.978 seconds
-Platform assembly: Z:\vm_share\PneumaticProessingCenter\PneumaticProcessingCenter_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: Z:\vm_share\PneumaticProcessingCenter\PeumaticProcessingCenter_Data\Managed\System.dll (this message is harmless)
+Bgin MonoManager eloadAssembly
+Pltfrm assembly: Z:\vm_share\PneumatiProcessingCenter\PneumaticrossingCeer_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading Z:\vm_share\PneumaticProcessingCenter\PneumaticProcessingCenter_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: Z:\vm_share\PneumaticProcesngCenter\PneumaticProcessingCenter_Data\Managed\ssembly-CSharp.dll (this message is harmless)
+Loading Z:\vm_share\PneumaticProcssingCenter\PneumaticProcessingCenter_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: Z:\vm_share\PneumaticProcessingCenter\PneumaticProcessingCenter_Data\Managed\UnityEngine.UI.dll thi mssage is harmless)
+Loading :\vm_share\PneumaticProcessingCenter\PneumaticProcessingCenter_Data\Managed\UityEngine.UI.dll into Unity Child Domain
+Platform assemby: Z:\vm_share\PneumaticProcessingCenter\PneumaticProcessingCenter_Data\Managed\UnityEngine.Networking.dll this message is harmless)
+Loading Z:\v_share\PneumaticProcessingCenter\PneumaticProcessingCenter_Data\Managed\UityEngine.Netwring.dll into Unity Child Dmain
+Platform assembly: Z:\vmshare\PneumaticProcessingCener\PneumaticProcessigCenter_Data\Managed\myS7ProSimLib.dll (this message is harmless)
+Loading Z:\vm_share\PneumaticProcessingCenter\PneumaticProcessingCenter_Data\Managed\myS7ProSimLibdll into Unity Child Domain
+- Completreload, i 18.36 seconds
+Platform assembly Z:\vm_share\PneumaticProcessingCenter\PnematicProcssingCenter_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: Z:\vm_share\PeumaticProcessingCenter\PneumaticProcessingCenter_Data\Managed\System.dll (this message is hamless)
 <RI> Initializing input.
-XInput1_3.dll not found. Trying XInput9_0.dll instead...
+XInput1_3.dll not found.Trying XInput91_0.dll instead...
 <RI> Input initialized.
-desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
-<RI> Initialized touh suport.
-UnloadTime: 2.697000 ms
-Connecting to S7ProSm ...
- 
-(Fiename: C:/buildslaveunity/uild/artifacts/generated/commo/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+desktop: 1920x1080 60z; virtual: 1920x1080 at 0,0
+<R> Initialized touch support.
+UnloadTime: 2.399700 ms
+Connecting to 7ProSim ...
 
-Setting up 1 worker eads or Enlghten.
-  Thread -> id: fdc - priority: 1 
+ 
+(Fileame: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugindings.gencpp Line: 37)
+
+Setting up 1 wrker threads for Enlighten.
+  Thread -> id: 137c -> riority:  
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0
+UnloaTime: 13470901 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Obects now: 1077.
+Total: 7.388800 ms (FindLiveObjects: 0.127900 ms CreateObjectMapping:0.068000 ms MarkObjects: 7.154700 ms  DeleteObjects: 0.028600 ms)
+
+Connecting to S7ProSim ...
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/commn/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Uloadin 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 24.568699 ms
+
+Unloading 4 unused Asset to reduce memory usage. Loaded Objects now: 1079.
+Total: 21.846401 ms (FindLiveObjects: 0.117300 ms CreateObjectMapin: 0.920500 ms MarkObjects: 19.619699 ms  DeleteObjects: 0.026800 ms)
+
+Connecting oS7ProSim ...
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloadin3 Unused Serialized files (Serialized files now laded: 0)
+UnloadTime: 14.402300 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1080.
+Total: 14.639700 ms (FindLiveObjects: 0.600600 ms CreateObjectMapping: 1.154600 ms MarkObjects: 12.843101 ms  DeleteObjects: 0.025400 ms)
+
+Connecting to S7ProSim ...
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Uloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UloadTime: 15.472100 ms
+
+Unloading 4 unused Assets to educe memory usage. Loaded Objects now: 1080.
+Total: 4.10800 ms (FindLiveObjects: 0.153700 ms CreateObjectMapping: 0.063200 ms MarkObjects: 3.941500 ms  DeleteObjects: 0.027100 ms)
+
+Connectin to S7ProSim ..
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.248200 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1080.
+Total: 19.058199 ms (FindLiveObjects: 1.009200 ms CreateObjectMapping: 0.059800 m MarkObjects: 17.946501 ms  DeleteObjects: 0.033100 ms)
+
+Connecting to S7ProSim ...
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+

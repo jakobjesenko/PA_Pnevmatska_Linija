@@ -1,0 +1,195 @@
+Initialize engine version: .3.4f1 (fdbb5133b820)
+GfxDevice: creating evce client; threded
+Direct3D:
+    Version  Direct3D 11.vel 10.0]
+    Renderer: VMware SVGA 3D (ID=0x405)
+    Vendor:  VMWare
+   VRAM:     640MB
+Begi MonoManager Reloadsbly
+Platform assembly:Z:\vm_sharePA_Pnevmatska_Linija\PneumaticProcessingCenter\PneumaticrcessinterDta\Managed\UnityEninedll (this message is armless)
+Loading Z:\vm_share\PA_Pnevmatska_Linija\PneumaticPressinCenter\PneumaticProcessingCenter_Data\Managed\UnityEngine.dll intoUnity Cldmn
+Platformassembly: Z:\vm_share\PA_Pnevmatska_Linij\PneumatiProcessingenter\PnumatiocessingCente_Datanaged\Assembly-Sharp.dll (this message is harmless)
+Loading Z\m_sare\Pnevmska_Linija\PneumaticProcesingCenterPeuatcProcessingCeer_Dta\ManagedAssemby-CSharpl into Unty Child Domain
+Patform assembly: Z:\vm_hare\PAPnemtska_Linija\PneumtcrocesinCenter\neumaticPocssingCnter_atManage\UnityEngine.UI.dl(this message is harmless)
+oadng Z:\vm_share\PA_Pevmatska_LinijaPneumaticProceiter\PneumaticProcessingCenter_Data\Managed\UnityEngine.UI.ll into Unity Child Domain
+latform assembly: Z:\vm_share\PA_Pnevmatska_Linija\PneumaticProcessingCenter\PneumaticProcessingCenter_Data\Maaged\itygine.Networkinl (this messag is harless)
+oading Z:\vm_share\PA_Pnevmatska_Linia\PneuagCenter\neumaticProcessingCente_Data\ManagUnitngine.Netwrking.dllito Unity Child Domai
+Platform assembly: Z:\vm_share\P_nevmatska_Linija\PnemcProcessingCentr\PneumticProcessinCenter_Data\Managed\myS7roimLib.dll (this message is harmless)
+Load Z:\vm_share\PA_nevmatska_Linija\PneumaticProcesir\euaticPrcessingCeerData\Managed\myS7ProSimLib.dll into UniChild oman
+- Comletedeoad in 22.18 secnds
+Platr asemly: Z:vmshare\PA_Pnematska_Linia\PneumaticrocesignuticProcessingCenter_Data\Maaged\SystemCore.dll (this message is harless)
+Platform sembly: Z:\vm_sare\PA_Pnevmatsa_Linija\PneumatiProcessinenter\PneumaicrcessngCenter_Data\Manaed\Sstm.dll (thi mssge is hamless)
+<RI> Igt.
+Input1_3.ll not oun Trying XInput9_1_0.dll inste..
+<RI> Inputinitiali
+desktp 1920x1080 60H; virtual: 1920x1080 t 0,0
+Rioprt.
+UnloadTime: 14.003800 m
+Connecting o S7ProSim ...
+
+ 
+(Filenam: C:/bildslve/unity/build/artifacts/generatedommon/runtime/UnityEngineDebugBindings.gen.cp Lie: 37)
+
+Setting up 1 workr ths for Elig
+  hred-idecc > priority:1 
+Unloading 4Unusd erialized files (Serializedfie now loaded )
+Unloadime: 31.78802ms
+
+Unloading 5 nusd Assets to reduce memoy usage. Loaded bjects : 1074.
+Total: 8.31410ms (FidLiveObects: 1.82 ms CreateOjectMapping: 0.578100 ms MarkObjects: 58570 ms  leteObjects: 0.198100 )
+
+Connectng toS7ProSm ...
+
+(Finame: C/uidslave/uiy/build/artifacts/enerated/common/runtime/UnityEgineDebugBindingsgen.cp Lie: 37)
+
+Crsh!!!
+SymInit: Symbol-SearchPath: '.;Z:\vm_share\PA_Pnemata_Linija\PeumaticProcesingCnter;Z:\v_share\PA_Pevmasa_inija\PneumaticProcessingCenter;C:indows;C:\Wndows\system32;SRV\ymbols*http://dl.miroft.com/dowlod/sybols;', symOptions: 30, serNam: 'Sudent'
+OS-Version: .1.701 (Srice Pack 1) 0x1000x1
+:\vm_shar\PA_Pnvmtsk_Linija\PneumaticrocesingCenter\PneumaticrocessingCenter.exe:PneumaticPngCenter.exe (00B00000), size: 17604608 (result: 0) SymType: '-export-DB: 'Z:\vm_share\PA_Pnevmatska_Linija\PneumaticProcessingCenter\PneumaticProcessingCenter.exe, fleVesion: 5.3..47953
+C:Windows\SysWOW64\tdll.dll:ntdl.dll (7420000), size: 1572864 (result: 0), SymType: 'exported-', PDB: 'C:\Windows\SysWOW64\ntll.dl', fileVesn6.1.760117514
+C:nssysww64kernel2.dl:kernl32dll (754E0000), size: 1114112 (result: 0),mType: '-exported-', PDB: 'C:\Windows\syswow64\kernel3ll',fileVersion: 6.1.7601.17514
+C:\Windos\yswow6\KENELBAE.dll:KERNELBASE.dl 5F0000), size: 28672(relt: 0), Symype: -exprted', PDB: C:\Wndows\syswow64\KERNLieersion 6.1.7601.7514
+C:\indows\sstem32HID.DLL:HID.DLL (050000),size:36864 (sult 0), SymTyp: '-exported-' PDB 'C:\indows\tem32\HID.DLL', filVersion: 6.1.7600.16385
+C:\indos\syswow64\msvcrt.dll:msvcrt.dll (76BB000),sze: 70412(resul: 0) SymType: '-exported-', PDB: 'C:\Windows\sysww64\rt.dl', fileVersin: 7600.16385
+C:\Windows\syswow64\GDI32.dll:GDdll (758000), size: 58824 (result: 0), SymTpe: '-expted-', PDB: C:\Windows\sysIonitiaDze endl',geVre oe: 6o1. 5.1.4711(f4b5133b820)
+GfxDev:c\:seStRn2.dlevSce32lllnt59h00e),sdze
+ 1048576(rultD r)c Sy:
+y  : 'rexpor eD-r ct: 3C1\.i dolsvsl w140.E]2.
+  l', fieedersr: :VM1are0.S7G1 
+D (ID=0x4C5:W
+i d  V\ensdow: \ DVMWIr2
+d l ADAAP:I  . l6(706M0
+0), size: 655360 (result: 0), SymTpe '-exported-', PDB:'C:\Window\syswow64\ADVAP32.dll',leVersion: 6.1.7601.17514
+C:\Windows\SysWOW64\sechost.dl:sechostl (76B9e0i0 , noMa:a1e2 R0elrasus0s, Slyype'exPltef-'r mDa:seCblyinZ:w\\my_sh6re\sPAh_sndvlm ftseVeLrnijna \P1.e60a.ic63o5e
+ssingCenter\Peum:tWcnrowss\iygCew4eRPDaTa.MalaRgeR\4.nlly(7g9n0.d0ll (ihe: s8 0me srge ul ht: m), SleTye: '-expred-'s, 
+LBoa CngWi:d\wm\shwrw\4PR_PRTv,tfslaV_risinij \P1n7u1ma17i1c
+ProcessiCg\Wintors\sneswawi4PrsceisClgCdllntep_i.dllDa7aF\0an0a,gie:e39Uni6t(yesgite.d,lSlmiypo  U-ixpoChil- DoPma:n
+:\indos\syswow64\Sspili.dll', fileVersin: 6.1.7601.17514
+C:\Windows\sswow64\CRYPPlaSfodrlCaYsTemSEyd l :\Fvm0_0hare PAze_ n9vm tssalL: i)i jy\Pnpeu '-ixpootes-s,iPnBCe'n:Wirdow\yPow6n\eumPatAcErdo',fceVeesson: 6.1.760i.n1Cen5t
+er_Data\Manaindows\sygoe64\d\KsdelbLy.dll CS5a8r00p). dll  (0th0i(semuetsa0e, S mhapel eses)o
+Ltadi'ng D::vm_:hWrnwP\y_wnwv4mLat.slk'_ iiiVars\nn 6mt.ic0r.o6e8s
+ing:CWiedtwsesrsw6PnSP1e.dulmUSP10tdll(757D000i, soce:s643C0nt2 r_sult:ata)MSanayped:Assemplr-dC'h rDp:dlC:\innoo sUoit4 \USh10ddlomaii
+rsion: 1.6P6a7fo1r1m5a4s
+mbly: Z:\vm:iws\s_swar64PW_2_e2vmalskaS2_3_.dlL a5\9000P)e umae: Pr7o8e (ieguenter)P SeTtycPeo ceesiontCdn'eP_BD 'C:atindawM\nyswd\6U\it2En2.ne.iIedel (tni s m76e1sa7e is
+ armless)
+LCa\Wnngo s:\yvwo_6s\haIe.lA:PSn.vla t7k3_0i0i0ja\Pize:m2t57P o(esssnlte t)e \Sneuypa:ic-P'ocPss:n'g:eindtwsrs_sDawa\M4aNagIddUli, Eigenes.onI.6d1l76nt0o U3i8y 
+Child DCmaiind
+os\systPma2\oENasVeRbIyN.Zl\v(_0ha0e0P0_, eiza s6864a Lienujt\ P),uSatiyPr:ceseipnrCtete'r PDP: eu:\niowrsceysten3CeVtRrI_NatllM,nfgledenisyon:g6i1e7.Ne.wo5k
+ing.dll (thiC \Wssoasesy w6r\lle3s2
+Lla:iln2. l:\(m4sEh0re\)A,Pnizea 1s2k0_L(rjs\ln:u 0t),PSrmcepsi gnexprr\Pd', De: mCt:cWPnooessiygwewneoD'tf\lMVnaig:ed\.1Unit1y17g1n4.
+Networking.Cl\ indots sysit64\SHLWAPI.dllyS LWAPIhdil (76E5d0D), siie
+ 35652 (rPluat:o)m aysTse:m'le:pZ:t\dm's hDre \C:PinAo_snsevwat64\S_WiPIjall'P umftilPrercssoi: ng1.nt0r\1n5u4m
+aticProcCs\inWCnnted_wa\tyawMawna\eS\EmL37.dPloSHmLLibddll (7hAs0 m0)sage e:s1 8a0r6 eress)
+l: 0oa Snm Z::\'m_xhort\dA'PnDe:v'Ct\skn_oinisasPne64\ticPL3cels'infileter\Ponu a.i1P7ocs60n.15t
+er_Data\ManCg\ei\dowmysys7em32\OPPrGS3mL.b.ldlP iG32.nto U60Dnty ), hized Dain
+- 819Co0p(eesult: 0)e  ymTopad  iexn rt.481, PeDB:o'C:ndsn
+ow\system32\OPENGL32.dll', fileVersion: 6.1.76001638
+Platfrm assebC:\Windows\yy temvm\LU32.dllshLr3\2Ad(e0ma0s0a,siieij12P4euratult: 0)P Symype: 'oeepstngCedter DB: P:nWenmots\Pyotce32sGiUg2.ent'r,Dfil\Varniang e.1d76\S.1y38tem.Co
+e.dll (this mCssage i\Windows\syste3\D RAW.dllrmless)DD
+AW.ll (60930000), liae: 94t17r (aesuet: 0),lyym:Zy\vm_share\eA Pnevmotskt_dLi, a\PeuDa:ticP\WnceswinsCettm3r\PnRul',mfaeieProcos:i6.n7gC0.te385Da
+ta\Managed\Sys:tWm.dols(syits3 \eCIaAg3 isl :DCmMAs32d
+l (62040000)size: 2456 (resu: 0), ymType: '-xported-', <B: I'it\Wnizin\ yntut3\XIIpAu31.dl_3,.fildel rst f:o6un.d. 0ryi3g5
+XInput9_1_0:W.ndows\syswlw 4SEPAiInsdeld..TUP
+A<IIdl> I(p5t,siz: n6t1a4i (er.u
+lt:d0)ktyToppe:92-exp0r0e6-H, zB: ';: Wviowsrsytwuwl4: E1P2P0.dl080, aitl0,e
+ion: 61.7601.17514
+C:\Wi<do>sIsistoa6l\zFeM Ro3ch llCFsuGp3rt.l 
+(76E20000),size: 9744 (result: 0, SymType: '-xported-', PDB: 'C:\Widows\syswow64\CFGMGR32.dll', fieVersion: 6.1.7601.17514
+C:\Windows\syswow64\OLEAUT32.dll:OLAUT32.dll (76D9000), size: 55728 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswowOL.dll', fileVersion 6.1.760.7514
+C:\Windows\syswow6\DEVOBJ.dll:DEVOBJ.dll (76B70000), size: 73728 (result: 0), SymTpe:'-exported-', PDB: 'C:Windows\syswow64\DEVOBJ.dll' fileVersin 6.1.63
+C:\Windows\system32\dwmapi.dll:dmapi.dl(e(result: 0), SymType: '-exprted-', PDB: C:Winw\tp'V
+\tem32\WINMM.dll:WNMM.dll 7D0reul0), SymType: '-exported- DB:\d7
+:\Windos\system32\MSACM32.dll:MSACM32.dll (60D20000),  81920 (rl, SymType: '-xprted-', PDB: 'C:\Windows\system32\SACM32.dll', fileVersion: .1.7600.163
+C:\Windowssyswow64\IMM32.dlIl AE0000)U lsidTie:928.69r9s6lt:m0
+, SymType: '-exprted-',CPnBne't\Wnn oo \S7sroo4SiMm3...ll,
+f
+lFVileiome  .:/0u.17514
+CldWsnloase/yuwni6t\/SuTl.dl/:arCTfactl gen3r0000te siom:o8/ru8i mr/nutyEng)n DyumgyBin inex.genec'pP B nC:\3W)d
+ws\yswow6\MSCTF.dl', fien 6.1.7600.165
+C:\Windows\ystem32\DSAPI.dl:DNSIdll (706000), sze: 278(result: 0 SymTye: exed-', PDB: 'C:\Winds\sstem3\DSAPdll', fileerio6.176.17514
+C:\Windows\system32\IPHLAPI.DLL:ILPAPI.LL (735A000), size: 11688 (result 0), SymTyp: -e-', PD: 'C\Windows\system32\PHPAPI.DLL',fileeson6.1.7601.1751
+C:\Windows\system32\WNNSI.DLL:WINSI.DL (735000), size:28672 (ult 0) mType: -exported-, PD::\Windws\sytem32WNNIDLLilersn: 6.1.7600.16385
+:\Windows\sysem32\WINHTTP.ll:WINHTTP.dll (60C00), siz: 36448 (eslt: 0), SymType: '-exported-', PDB: 'C:\Windw\system32\WINHTTP.dll',lrsion: 6.1.7617514
+C:\Windows\ystem3wei.dll:ebio.dll (8E0), size 384 (result: 0), SType:'nosymbols-', DB: 'C:\Wnws\stm\webiodll', leVsion: 61.761.17514
+Z:\m_hare\PA_PnesLia\PneumaticProcessingnter\PneumaticProcessiCnterDataMono\mono.dl:monodll (10000000), size:29360(ret 0), SyTe: '-expored-, PD: Z:\vm_share\A_Pnevma_Linija\PneumtcProessngCnte\umticPrcessinCenter_Data\ono\oo.dll' fileVersion: 1.0.0.1
+C:Wndowsswow64\PSAP.DL:PAPIDL (75140000, sze: 480 (reul: 0), SyTe: -epted-', PDB: 'C:Windowssswow6APID ileersion: 6.1.7600.1685
+C:\Windows\sstem3\MSWSOK.dlMSWSOCK.dll (7A0000) siz: 7 (result: 0), SmType: '-export-' PD: ':\Windws\sytem32\MSSOC., fiVerso: 6.1.14
+nm32\uxeme.dll:xtheme.dll (73E70000), iz: 52428 (sult: 0), SmType: '-eported-' PD: '\Winows\sysem2\uxthee.dll', fileVersi: 17600.16385
+C:inows\syste32\d3d1.dl:d.dll (0850000),size: 536576 (result: 0),SymTpe: '-expoted-',PDB 'C:\Wind\ystem32dd11.', ilVersin: .1.7601154
+C\Windows\systm32\dgi.dll:xgi.dll (607C0000), size: 36576(esult: 0), SymType: '-exporte' PDB: 'C:\Widos\system32\dxgi.dll', ileersion:6..7601.17514
+C:\Wndo\sswow64\INTRT.dll:WINTRST.dll (76F0000), size8430 (reu:0), ymTyp: xortd-', PB: ndows\syso64\WITRU.dl', fileVern: 6..7601.17514
+:\Windows\syswow64CYPT32.dll:CPT32.dl (7680000), size:60(relt: 0), SymType: -exported-', PDB: 'C:\Windowsyswow64\CRYP32.dl', fileVersion:6.1.7601.17514
+C:\Wndows\yw4\MSASN1.dll:MSASN1.dl (768B0000, size: 49152 (result: 0), SymTye: '-exported-', PDB: 'C:\Windows\syswow64\ASN1.dll', fileVersi: .1.7601.17514
+C:\Windows\systm3\vm3dum_loder.dll:m3dum_loaerdll (6FC00), ize:5 (reult0),SymTy'exported-', PDB: 'C:\Windws\ytem3\vmdum_loar.dll' filVesio: 8.15.1.6
+C\Widoum_0.dllvm3dum_10.dll (6070000) siz: 2952 (eslt:0), SymTyp '-xportd-, DB C:\dwssystem32\vm3dum10.dll', leVerion .151.0
+Cindows\system32\ghl.dl:dghelp.dl(7B00, size: 96(0, SymType: '-exrtd-', PDB 'C:\Windw\system32\dgelpdll', fileVersin: 6.1701.1754
+C:\Windows\ystem32\MevAPI.LL:vAPI.DLL (6074000), size: 23342 (rest:0), SymType: '-exported-', DB: 'CWindows\syste32\MMDevAP.DLL', feVrson: 6.1.0.175
+C:\Windwssystm3\PROPY.dll(6827000), size: 1003520 (result 0), SmTye: -xported-',PDB: 'C:\Windows\ystem32\ROPSS.dll',fieVrsion: 07601174
+\Windows\system32\wdmaud.dv:waud.v (670000),size 190 (rsult: 0), SymType: -xpoed-', PB: 'C:\Wndow\system32\wdmd.rv', ileVrin: 6.1.71114
+C:Winows\stem32ksuser.ll:ksu.dll (60CB0000), sie: 1638 (rest: 0, SymTye:-eporte-', PB 'C\inos\systuser.d', fileVerin: 6.1.760.16385
+C:Windossystem32\VRT.dll:ART.dl (60700000), ze 28672 (reult: 0), Symy: -exported-', DB: 'C:\Winos\system32\AT.dll' leesion: ..7600.1685
+C:\Windows\systm2\AUDIOS.DLL:AUDIOSES.DLL(606C0000), sie: 2218 (eult: 0), SymType: -exported-', PDB: C\Widws\system32\AUDOES.LL',fiVo: 6.1.761.17514
+C:\Windows\system32\msacm2.drvmacm32.drv (60B0, size: 32768 (result ), Se', PDB: 'C:\Windows\system32\msacm3.drv', ileVrsion: 6.600.1635
+C:\dows\sytm32dimap.dl:midimp.dll(660000),size: 2862 (result: 0), SymType: '-exprted-', PDB: 'C:\idows\sytem32\midmap.dll, fileVrsion 6.60.1638
+C:\ndows\systm32\dound.dll:dsu.dll (6060000, sz:66944 (resul: 0 SmTyp exported-',B: '\Windos\syste2\dsou.dll, fileVesion: 6.17600.1635
+\Windows\system3\OWPOF.dll:ORPROFdl(05F0000),si: 151552 (resut ), SymType '-exorte-', PDB: ':\dows\syste32\POWRPRF.dll', filerion6.1.760016385
+\Windows\swow64CLCtQ.DLL:CLCaQ.D7D000), sie: 53657 (resut: 0), SymTpe -eported-', PDB: 'Windowssyow64\CLBCatQ.DLL', fiVersion: 01.12.830.16385
+:\Windows\system32\CRYSP.dlRYSP.l (73570), ize: 90112 (res: ), mType: '-erted-', DB: 'C:\Windowsystemd fileVersion: 61.7600.16385
+C:\ndowssysm32\rsenhdllrsaen.dll (7330000 size: 46 (result: 0) SyTpe: '-xporte-', PDB: '\Wndow\sys32\rsanl', fileVersion:6.1.70.385
+:\oga les (x86)\EMES\LCSIM\s7wsi\s7wspsmx.dll:s7wmx.dll (06D9000), ize: 159 (rs: 0),SyType'-expoted-' PD: \Pogram File (x86)IEENS\LCIM\s7i\wpsmdll',fileVersio: 504.503.102.1
+C:\indows\sysem32\MFC.DLL:C71.DLL (740000), size: 160864 (result: 0), Symyp: 'noymbols-', PDB:'C:\Widowssysem32\MF1.D',fleVersion: 7.10.377.0
+C\Windows\ysem32\MV71dl (74000), size: 35256 (result: 0), SymType: '-exported-', DB 'C:\Wndows\system32\SCR71.dll', fileVersion: 7.10.3052.4
+C:Windows\system32\MFC71ENU.DLMFC71ENU.LL 5D3600), size: 57344 sult: 0), SymTyp -nsmols-'PDB: 'C:\Windows\sste1 fieVeson: 7.10.377
+Cindws\sytem32\SXDLL:SXS.DL (71B5000), siz: 389120 (sult: 0, SymType: '-exported,PDB: 'C:\Widows\syst32SXS.DLL', leVrson: .1.601.17514
+C:\Winds\system32\RpcRtRemoe.dll:RpcRtRemotell (410000), size: 7344 (resul: 0) SmTyp: '-expore :\indowssystem32RpctRemotedll', on: 6.1.1754
+=
+=========OUTPUING STACRACE ===============
+
+  ER: SmGetSymromAddr64 GetLaErrr: 'The specified module coul not be found.' (Address: 050993)
+  ERRR: SymGetModulInfo4, GstEr: 'A dynamic link librayL)intalizatonroutfaid'(Addss: 0599235)
+0x05099235 ((<unknon>)) 
+  RRR: ymFomAddr64tLstErr: 'Thespecifed mdul culd not bfnd.' (Addess: 05091BE)
+  ERROR: SymGeModuleInfo4,etastEror:  dnamic lin library (DL) intiaizatinrouie fail.'Address: 05091BE
+x099E ((<ukn
+ EROR: SymGetSymFromAdd64, etLaError: 'e secfied modle ouldot b foud.' dress: 0509616
+  ERROR: ymGtMuleInfo4, GetLastEror: 'A dnamic lik library (DLL)initializtin roti ailed.' (Addss: 05096116)
+x00961 ((<unknown>))
+  EROR: SmetSmFomAddGtLtErrr: 'Th speciied modle culd not e found.'(Address: 050917D) 
+ERROR: SymGetModuleIno64,GetLastError: 'A dynamiclink library (DLL)initializatn routine failed.' (Addrss: 050917D)
+x050917D (unknon)) 
+  ER: SymGetSymFromAr4, Geatrro 'The pcified odec notbe fund.' ddess:00A7)
+ ERRORymGetMdu GeLastError:'A dynaminklra (DLL) initiaztion rotin fied.' Addres:050DAF7)0
+x059DAF7 ((<known)
+  ERRR:ymtymFromAddr GtLasErro 'Th spcfied module coul ot be found.' (Addrs: 0509C9B0
+ EROR:ymGeModuleInfo64, GtLstError: 'A dynamic link library (DL) tiaization routiefailed.' (Address: 05099B0)
+0x059C9B0 <nown)) 
+ EROR: SymGetSyFromAddr64, GeastError: 'he pcifiedmodule couno be foud' (Addrss: 006F541)
+  ERR: ymGetMoueInfo6, GetLastError: 'A dynami link library (LL)alizo routine failed.' Address: 0506F541)
+0x0041((<unknon>)) 
+0x100F12F4 (mno) mono_setdefaults0
+x1005D971 (on) moo_runtime_nvoke
+  ERRO: SymeymFromAddr4 GeLstError: 'Attempo acces ivali adress' (Addrss: 00CB0AE)
+0x0C08AE(neumaticPocingCeter) 
+  ERR SymSyromAddr64, GetError: 'Atempt to accessinvalidaddress.' (ress: 00D343A)
+x0D4B3A PneumatiProcesingCeter 
+  ERROR: SymGetSyFromAdd64, GetLastErrr:'Atemt t cess invalid aess.' (Address: 00D349
+0x00D34955 PneumaicrocessingCenter 
+  EROR: SymGetSymFromAdr64,GetLastErr: 'Attmt access invalid address.'(Adrs: 00CA0EEA)
+00CA0EA (neumaicProcessinCnte)
+ ERRORSeSmFromAdr64, etstEror: 'ttempt to acces inlid addrss.' (Adrss: 00CA2AC8)
+0xCA2AC8 (PneumatProcesingCey
+mGetSymFromAddr6 GetLatError: 'Atepto acss inlid address.drs: 00C91F)
+0x00CF91F(PneumatiroceigCeter 
+  ERRR: SymGetSymFromAddr64, etatError: Attempt tocess invalid ddres.' (Addrs: 00D9B927)
+0x00D2(PnumaticPocessingCnte)
+ ERROR: SymGetSymrodr64GtLastErrr: 'Attemp to ccessinvali address.' (Address: 09D)
+0x00D (maticProcessnCeter)
+ ERRORSytSymFrddr64, GetLastErro: 'empt t access inald ddres.'Adrss: 014DC48)
+0x0114D48 (PneumaticProcsinCeer)  
+R SyGetSymFromAddr6,GetLastor 'ttemp toaccess invalddress.' ddre0117FE)
+00117CFEE (PneumaticPocesingCenter) 
+754F3CA (kernl3)eThreadInitThunk
+0x77459ED2ntdll)RtlIiiaizeExcptionChai
+
+======== END F STACTRCE =========
+***Cash! ****

@@ -16,7 +16,7 @@ Platform assembly: Z:\vm_share\PA_Pnevmatska_Linija\PneumaticProcessingCenter\Pn
 Loading Z:\vm_share\PA_Pnevmatska_Linija\PneumaticProcessingCenter\PneumaticProcessingCenter_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: Z:\vm_share\PA_Pnevmatska_Linija\PneumaticProcessingCenter\PneumaticProcessingCenter_Data\Managed\myS7ProSimLib.dll (this message is harmless)
 Loading Z:\vm_share\PA_Pnevmatska_Linija\PneumaticProcessingCenter\PneumaticProcessingCenter_Data\Managed\myS7ProSimLib.dll into Unity Child Domain
-- Completed reload, in  0.362 seconds
+- Completed reload, in  0.365 seconds
 Platform assembly: Z:\vm_share\PA_Pnevmatska_Linija\PneumaticProcessingCenter\PneumaticProcessingCenter_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: Z:\vm_share\PA_Pnevmatska_Linija\PneumaticProcessingCenter\PneumaticProcessingCenter_Data\Managed\System.dll (this message is harmless)
 <RI> Initializing input.
@@ -24,19 +24,19 @@ XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
 <RI> Input initialized.
 desktop: 1920x1080 60Hz; virtual: 3360x1080 at 0,0
 <RI> Initialized touch support.
-UnloadTime: 1.169000 ms
+UnloadTime: 1.730000 ms
 Connecting to S7ProSim ...
 
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 604 -> priority: 1 
+  Thread -> id: e48 -> priority: 1 
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 14.391400 ms
+UnloadTime: 10.297100 ms
 
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1074.
-Total: 1.582500 ms (FindLiveObjects: 0.070000 ms CreateObjectMapping: 0.382000 ms MarkObjects: 1.083700 ms  DeleteObjects: 0.043700 ms)
+Total: 1.104800 ms (FindLiveObjects: 0.076700 ms CreateObjectMapping: 0.057100 ms MarkObjects: 0.930300 ms  DeleteObjects: 0.037700 ms)
 
 Connecting to S7ProSim ...
 
@@ -44,10 +44,10 @@ Connecting to S7ProSim ...
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.658900 ms
+UnloadTime: 1.701300 ms
 
 Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1074.
-Total: 1.078600 ms (FindLiveObjects: 0.067200 ms CreateObjectMapping: 0.033600 ms MarkObjects: 0.941400 ms  DeleteObjects: 0.031900 ms)
+Total: 1.444400 ms (FindLiveObjects: 0.161100 ms CreateObjectMapping: 0.032300 ms MarkObjects: 1.209600 ms  DeleteObjects: 0.036800 ms)
 
 Connecting to S7ProSim ...
 
@@ -55,10 +55,10 @@ Connecting to S7ProSim ...
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.986700 ms
+UnloadTime: 1.957900 ms
 
 Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1074.
-Total: 1.173600 ms (FindLiveObjects: 0.086600 ms CreateObjectMapping: 0.031900 ms MarkObjects: 1.021300 ms  DeleteObjects: 0.031300 ms)
+Total: 1.117200 ms (FindLiveObjects: 0.081700 ms CreateObjectMapping: 0.029600 ms MarkObjects: 0.968900 ms  DeleteObjects: 0.034200 ms)
 
 Connecting to S7ProSim ...
 
@@ -66,98 +66,10 @@ Connecting to S7ProSim ...
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.354000 ms
+UnloadTime: 1.646000 ms
 
 Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1074.
-Total: 1.772300 ms (FindLiveObjects: 0.132200 ms CreateObjectMapping: 0.044600 ms MarkObjects: 1.548700 ms  DeleteObjects: 0.043600 ms)
-
-Connecting to S7ProSim ...
-
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 5.663100 ms
-
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1074.
-Total: 1.560100 ms (FindLiveObjects: 0.096700 ms CreateObjectMapping: 0.089900 ms MarkObjects: 1.331700 ms  DeleteObjects: 0.038600 ms)
-
-Connecting to S7ProSim ...
-
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.475200 ms
-
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1074.
-Total: 1.132700 ms (FindLiveObjects: 0.076900 ms CreateObjectMapping: 0.030100 ms MarkObjects: 0.985400 ms  DeleteObjects: 0.037600 ms)
-
-Connecting to S7ProSim ...
-
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.898800 ms
-
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1074.
-Total: 1.083900 ms (FindLiveObjects: 0.066600 ms CreateObjectMapping: 0.032300 ms MarkObjects: 0.945200 ms  DeleteObjects: 0.037400 ms)
-
-Connecting to S7ProSim ...
-
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.669100 ms
-
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1074.
-Total: 1.012600 ms (FindLiveObjects: 0.079500 ms CreateObjectMapping: 0.046200 ms MarkObjects: 0.869900 ms  DeleteObjects: 0.014700 ms)
-
-Connecting to S7ProSim ...
-
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.676300 ms
-
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1074.
-Total: 1.169800 ms (FindLiveObjects: 0.081200 ms CreateObjectMapping: 0.050900 ms MarkObjects: 1.001600 ms  DeleteObjects: 0.033400 ms)
-
-Connecting to S7ProSim ...
-
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.041700 ms
-
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1074.
-Total: 1.067500 ms (FindLiveObjects: 0.067300 ms CreateObjectMapping: 0.038100 ms MarkObjects: 0.926900 ms  DeleteObjects: 0.032500 ms)
-
-Connecting to S7ProSim ...
-
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.689300 ms
-
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1074.
-Total: 1.147700 ms (FindLiveObjects: 0.082900 ms CreateObjectMapping: 0.050600 ms MarkObjects: 0.974200 ms  DeleteObjects: 0.037200 ms)
-
-Connecting to S7ProSim ...
-
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
-
-Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 1.911300 ms
-
-Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1074.
-Total: 1.074900 ms (FindLiveObjects: 0.079300 ms CreateObjectMapping: 0.029500 ms MarkObjects: 0.927000 ms  DeleteObjects: 0.036500 ms)
+Total: 0.969600 ms (FindLiveObjects: 0.078700 ms CreateObjectMapping: 0.046600 ms MarkObjects: 0.804700 ms  DeleteObjects: 0.036300 ms)
 
 Connecting to S7ProSim ...
 
